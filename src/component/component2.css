@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    flex:1;
+    height: 90vh;
+    width: 60%;
+    flex-direction: column;
+     background-color: white; 
+     border: 2px solid;
+}
+.top{
+    display: flex;
+    flex:0.1;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+     border: 2px solid;
+
+}
+.bottom{
+    display: flex;
+    flex:0.9;
+     border: 2px solid;
+     flex-direction: column;
+
+}
+.up{
+    display: flex;
+    border:2px solid;
+    flex:0.4;
+    flex-direction: row;
+}
+.up1{
+    flex:0.1;
+    border:2px solid;
+}
