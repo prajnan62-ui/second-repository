@@ -1,5 +1,5 @@
 // import './App.css'
-import Component2 from '../component/Component2'
+import Component2 from '../component/Component1'
 
 
 // import Bride1 from './component/Bride1.jpg'
