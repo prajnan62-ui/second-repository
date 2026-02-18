@@ -1,5 +1,5 @@
 // import './App.css'
-import Component2 from '../component/Component1'
+import Component2 from '../component/Component2'
 
 
 // import Bride1 from './component/Bride1.jpg'
@@ -13,7 +13,7 @@ function App() {
     <>
   
     
-    <Component1/>
+    <Component2/>
     {/* <Bride1/>
     <Bride2/>
     <Bride3/> */}
