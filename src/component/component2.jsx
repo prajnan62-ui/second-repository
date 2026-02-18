@@ -1,7 +1,8 @@
 import './Component2.css'
 function Component2(){
-    <>
+    
     return(
+        <>
         <div className="container">
             <div className="top"></div>
             <div className="bottom">
@@ -18,7 +19,7 @@ function Component2(){
             </div>
 
         </div>
+     </>
     )
-    </>
 }
 export default Component2

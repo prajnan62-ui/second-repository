@@ -1,19 +1,12 @@
 // import './App.css'
-import Component1 from './component/Component1'
-
-
-// import Bride1 from './component/Bride1.jpg'
-// import Bride2 from './component/Bride2.jpg'
-// import Bride3 from './component/Bride3.jpg'
-
-
+import Component2 from '../component/Component2'
 
 function App() {
   return( 
     <>
   
     
-    <Component1/>
+    <Component2/>
     {/* <Bride1/>
     <Bride2/>
     <Bride3/> */}
