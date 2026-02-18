@@ -1,5 +1,6 @@
 // import './App.css'
-import Component2 from '../component/Component2'
+
+import Component2 from "./component/component2"
 
 function App() {
   return( 
